@@ -1,0 +1,5 @@
+IP: 89.169.177.177;
+name_taski: https://thunderproject.hopto.org/;
+name_kittygram: https://thunderkitty.hopto.org/;
+login: admin;
+password: admin007;
